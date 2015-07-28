@@ -19,7 +19,7 @@ The awesome part is that you can filter any shortcode parameters or overwrite an
 
 We believe that shortcodes functionality should be offered by a plugin and the style should be provided by themes.
 
-Here is a [detailed documentation](http://github.com/pixelgrade/pixcodes/blob/wporg/README.md) about how you can configure some plugin settings and output.
+Here is a [detailed documentation](http://github.com/pixelgrade/pixcodes/blob/master/README.md) about how you can configure some plugin settings and output.
 
 == Installation ==
 
